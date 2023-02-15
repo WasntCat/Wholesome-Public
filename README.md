@@ -4,6 +4,8 @@
 - Alittle bored while working on the new injector and other projects 
 So i feel like having alittle fun u-u 
 
+- Im not going to help you use this, grow some brain cells
+
 # Features 
 - 20 + QOL 
 - photon, event bla bla logger in settings 
